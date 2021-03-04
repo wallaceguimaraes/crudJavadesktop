@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Nov 24 20:07:18 BRST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0167-47c3-41b2-000002cd0630 
+on database directory C:\Users\Wallace Guimaraes\Desktop\Banco de DadosD\Derbinho with class loader sun.misc.Launcher$AppClassLoader@74a14482 
+Loaded from file:/C:/Users/Wallace%20Guimaraes/Desktop/Atalhos/Web/SistemaPoo/CadCv.exe
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=C:\Users\Wallace Guimaraes\Desktop\Atalhos\Web\SistemaPoo
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
